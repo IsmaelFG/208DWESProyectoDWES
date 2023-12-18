@@ -7,7 +7,7 @@ Ismael Ferreras García
    -[PHP8.1]
    -[XDEBUG3.1.2]
 ##Descripcion
-Documentacion de la asignatura de despliegue de aplicaciones web
+Documentacion de la asignatura de desarrollo de aplicaciones web en entorno servidor
 
 ##Funcionalidad
 
